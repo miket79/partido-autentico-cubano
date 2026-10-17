@@ -7,9 +7,7 @@ fecha: Octubre de 2026
 resumen: Los once artículos que definen el objeto del partido: la liberación de Cuba del régimen del Partido Comunista y de la familia Castro Ruz, y la restauración de la República soberana, democrática y de derecho.
 ---
 
-Las Bases del PAC conservan los nueve artículos con que José Martí fundó el Partido Revolucionario Cubano en 1892, en su orden y, donde es posible, en su letra. Se añaden dos artículos propios del PAC: el 10, sobre soberanía y alianzas, y el 11, sobre los principios de la República.
-
-## Artículos fundacionales
+Las Bases definen el objeto del Partido Auténtico Cubano, su método de lucha, sus propósitos concretos y la República que se propone restaurar.
 
 **Artículo 1.** El Partido Auténtico Cubano se constituye para lograr, con los esfuerzos reunidos de todos los cubanos de buena voluntad, de la Isla y del destierro, la liberación absoluta de Cuba del régimen del Partido Comunista y del poder de la familia Castro Ruz, y la restauración de la República soberana, democrática y de derecho; y para fomentar y auxiliar la libertad de los pueblos de América que aún padecen tiranías de la misma familia ideológica.
 
@@ -35,8 +33,6 @@ Las Bases del PAC conservan los nueve artículos con que José Martí fundó el 
 6. Preparar desde ahora el programa de transición y de reconstrucción nacional, para que la República no nazca improvisada.
 
 **Artículo 9.** El Partido Auténtico Cubano se regirá conforme a los Estatutos que acuerden las organizaciones que lo fundan, y a un Reglamento de seguridad, de carácter reservado, para la protección de sus miembros en la Isla.
-
-## Artículos añadidos por el PAC
 
 **Artículo 10. Soberanía y alianzas.** El Partido Auténtico Cubano proclama la soberanía plena de Cuba. Rechaza toda tutela extranjera: la que hoy ejercen sobre el régimen potencias como Rusia y China, y cualquier forma futura de anexión o protectorado. Propone para la Cuba libre una alianza estrecha, entre iguales, con los Estados Unidos y las democracias del mundo.
 

@@ -7,7 +7,7 @@ fecha: Octubre de 2026
 resumen: Cómo se organiza el partido: clubes como base de la autoridad, un Cuerpo de Consejo en cada localidad, y un Delegado y un Tesorero elegidos cada año que rinden cuentas.
 ---
 
-Los Estatutos mantienen la arquitectura democrática de 1892: los clubes son la base de la autoridad, los Cuerpos de Consejo los representan en cada localidad, y un Delegado y un Tesorero, elegidos cada año, ejecutan y rinden cuentas. Los Estatutos son públicos; lo reservado pasa a un Reglamento de seguridad, y se añaden normas de transparencia y conducta (§14 a §16).
+Los Estatutos organizan el partido de forma democrática: los clubes son la base de la autoridad, los Cuerpos de Consejo los representan en cada localidad, y un Delegado y un Tesorero, elegidos cada año, ejecutan y rinden cuentas. Los Estatutos son públicos; lo reservado se rige por un Reglamento de seguridad, y las normas de transparencia y conducta (§14 a §16) obligan a todos los miembros.
 
 ## Estructura del partido
 
@@ -78,7 +78,7 @@ Los Estatutos mantienen la arquitectura democrática de 1892: los clubes son la 
 
 **§13. Peso del voto.** Cada club tendrá un voto por cada grupo de veinte a cien miembros.
 
-## Normas añadidas por el PAC
+## Seguridad, transparencia y conducta
 
 **§14. Seguridad en la Isla.** Los miembros y núcleos residentes en Cuba no figurarán en registros públicos. Su vínculo con el partido y su representación en las elecciones se regirán por el Reglamento de seguridad que aprueben los Cuerpos de Consejo. Ningún dirigente del exterior expondrá públicamente a un miembro de la Isla sin su consentimiento.
 
