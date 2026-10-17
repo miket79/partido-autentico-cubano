@@ -1,3 +1,4 @@
 {
+  "redirects": [{ "source": "/documentos/estudio", "destination": "/documentos/doctrina", "permanent": true }],
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
