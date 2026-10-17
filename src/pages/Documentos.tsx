@@ -8,7 +8,7 @@ export function Documentos() {
       <section className="library-hero" aria-labelledby="library-title">
         <p className="section-label">Archivo público / Biblioteca</p>
         <h1 id="library-title">Documentos fundamentales.</h1>
-        <p>Los textos que definen al Partido Auténtico Cubano: su manifiesto, sus Bases, sus Estatutos y el estudio que los fundamenta en el pensamiento de José Martí.</p>
+        <p>Los textos que definen al Partido Auténtico Cubano: su manifiesto, sus Bases, sus Estatutos y la doctrina que guía su acción.</p>
       </section>
 
       <section className="library-list" aria-label="Lista de documentos">
@@ -27,8 +27,8 @@ export function Documentos() {
       </section>
 
       <section className="library-note">
-        <p>Los documentos del PAC adaptan a la Cuba de hoy las Bases y los Estatutos con que José Martí fundó el Partido Revolucionario Cubano en 1892: donde Martí combatía al gobierno colonial, el PAC combate al régimen del Partido Comunista y al poder de la familia Castro Ruz.</p>
-        <Enlace className="button button-primary" href="/documentos/estudio">Leer el estudio <ArrowUpRight size={18} aria-hidden="true" /></Enlace>
+        <p>La doctrina del PAC reúne los principios que guían su lucha contra el régimen del Partido Comunista y el poder de la familia Castro Ruz: quién es el adversario, con qué método se lucha y qué República se quiere fundar.</p>
+        <Enlace className="button button-primary" href="/documentos/doctrina">Leer la doctrina <ArrowUpRight size={18} aria-hidden="true" /></Enlace>
       </section>
     </>
   )
